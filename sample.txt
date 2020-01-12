@@ -14,3 +14,4 @@ test8 web
 tset9 web add
 test10 web
 test11 ecli
+test12 ecli
