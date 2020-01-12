@@ -6,3 +6,4 @@ test4 eclipse
 test5 eclipse
 test6 web
 test7 ecli
+test8 web
