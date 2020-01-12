@@ -6,4 +6,8 @@ test4 eclipse
 test5 eclipse
 test6 web
 test7 ecli
+<<<<<<< HEAD
 test8 ecli conflict
+=======
+test8 web
+>>>>>>> refs/remotes/origin/master
